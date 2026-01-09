@@ -1,4 +1,4 @@
-// Prompt: Declare, Assign and Print Different Types of Variables in C++
+// Prompt: Declare, Assign and Print Different Types of Variables in C++.
 
 #include <iostream>
 
