@@ -6,11 +6,11 @@ int main(){
     
     // Declaring different types of variables
 
-    int num; // integer variable
-    double decimalNum; // double variable
-    char character; // character variable
-    std::string text; // string variable
-    bool flag; // boolean variable
+    int num; // whole numbers
+    double decimalNum; // decimal value
+    char character; // a single character
+    std::string text; // multiple characters (string)
+    bool flag; // true or false value
 
     // Assigning values to variables
 
@@ -34,5 +34,6 @@ int main(){
 /*
     Notes:
         - Variables must be declared with a specific type before use.
+        - << smth << is used to print multiple items or to connect different values.
         - Different types of variables can store different kinds of data.
 */

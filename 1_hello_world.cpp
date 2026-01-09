@@ -14,6 +14,6 @@ int main(){ // mainfunction - execution starts here
     Notes:
         - main() is the main function where the program execution begins.
         - returns 0 indicates successful completion of the program.
-        - std::cout is used to output (print) text to the console.
+        - std::cout is used to output (print) text to the console. cout stands for "character output".
         - std::endl is used to insert a new line and flush the output buffer. It works like \n or enter key.
 */
