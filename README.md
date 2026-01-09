@@ -41,4 +41,9 @@ Start from `1_helloworld.cpp` and move forward sequentially. 📝
 
 ---
 
+## 🔓 License
+This project is licensed under the MIT License.
+
+---
+
 Happy Coding! 🚀
