@@ -1,4 +1,4 @@
-// Prompt: Write a simple "Hello, World!" program
+// Prompt: Write a simple "Hello, World!" program.
 
 #include <iostream> // standard C++ library that lets your program read input and print output
 
