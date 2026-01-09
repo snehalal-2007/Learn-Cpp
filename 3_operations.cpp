@@ -1,4 +1,4 @@
-//Prompt: Initialize Two Variables, Add Them and Print the Result in C++
+//Prompt: Initialize Two Variables, Add Them and Print the Result in C++.
 
 #include <iostream>
 
