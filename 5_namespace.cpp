@@ -1,4 +1,4 @@
-//Prompt: 
+//Prompt: Using namespaces to avoid naming conflicts in C++, declare 3 values to the same variable.
 
 #include <iostream>
 
