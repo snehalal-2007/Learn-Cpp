@@ -1,4 +1,4 @@
-// Prompt: 
+// Prompt: Initialize two integer variables and perform basic arithmetic operations (addition, subtraction, multiplication, division).
 
 #include <iostream>
 
