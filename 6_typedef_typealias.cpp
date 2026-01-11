@@ -24,4 +24,5 @@ int main(){
         - In this example, text_t is an alias for a string.
         - You can now use text_t in your code instead of writing out the full type.
         - type def is useful for complex data types or when you want to give a more meaningful name to a type.
+        - The alternative way using 'using' keyword is more modern and often preferred.
 */
