@@ -19,4 +19,5 @@ int main() {
         - cout is used for outputting to the console
         - cin is used for taking input from the console
         - The '>>' operator is used with cin to read input
+        - std::getline can be used for reading strings with spaces 
 */
