@@ -11,23 +11,18 @@ int main() {
 
     switch (grade) {
         case 'A':
-        case 'a':
             std::cout << "Excellent!" << std::endl;
             break;
         case 'B':
-        case 'b':
             std::cout << "Good job!" << std::endl;
             break;
         case 'C':
-        case 'c':
             std::cout << "You passed." << std::endl;
             break;
         case 'D':
-        case 'd':
             std::cout << "You need to improve." << std::endl;
             break;
         case 'F':
-        case 'f':
             std::cout << "Failed. Better luck next time." << std::endl;
             break;
         default:
